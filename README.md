@@ -1,3 +1,3 @@
 ### Green Nightmare - Obsidian Theme
 
-This simple colorscheme-only theme is mainly neon green on black black with many shades of green for various highlights.
+This simple "color scheme-only" theme is mainly neon green on black black with many shades of green for various highlights.
