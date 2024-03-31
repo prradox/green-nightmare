@@ -22,14 +22,14 @@
   --link-decoration-thickness: 1px;
   --link-external-color: #568203;
 
-  --text-selection: #00a86b;
+  --text-selection: #486e02;
 
   --h1-color: #98fb98;
-  --h2-color: #c7ea46;
+  --h2-color: #50c878;
   --h3-color: #a8e4a0;
-  --h4-color: #50c878;
+  --h4-color: #a9ba9d;
   --h5-color: #9dc183;
-  --h6-color: #a9ba9d;
+  --h6-color: #486e02;
 
   --inline-title-color: #39ff14;
   --tab-font-weight: 900;
@@ -40,11 +40,11 @@
   --icon-color-hover: #39ff14;
 
   --nav-item-color-hover: #39ff14;
-  --nav-item-color-active: #000000;
+  --nav-item-color-active: #39ff14;
   --nav-item-size: var(--font-ui-medium);
   --nav-item-weight: 500;
   --nav-item-weight-active: 900;
-  --nav-item-background-active: #39ff14;
+  --nav-item-background-active: #000000;
   --nav-file-tag: #f4ec9e;
   --nav-indentation-guide-color: #5f6148;
 
